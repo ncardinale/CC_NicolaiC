@@ -21,7 +21,7 @@ int millsToBoom = 240000;
 int wordHeight = 670;
 int currentTime = 0;
 int savedTime = 0;
-int scene=40;
+int scene=1;
 int timer=0;
 int bombTimer=0;
 int numSecLeft;
