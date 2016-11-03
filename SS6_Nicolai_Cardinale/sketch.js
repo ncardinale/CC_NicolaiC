@@ -1,4 +1,9 @@
-//Arrays for ellipses
+//rejected and approves stamps
+
+//instructions: Up Arrow for Approved
+             // Down Arrow for Denied
+             // Space to Erase
+
 var stampedX = [];
 var stampedY = [];
 var stampNum = []; 
